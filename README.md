@@ -11,7 +11,7 @@ The Caesar Cipher is a simple substitution cipher where each letter in the plain
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Subhajit-01/PRODIGY_CS_01
+   git clone https://github.com/Subhajit-01/PRODIGY_CS_01.git
    ```
 
 2. Change Directory
