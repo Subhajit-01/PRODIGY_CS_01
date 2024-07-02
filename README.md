@@ -14,12 +14,16 @@ The Caesar Cipher is a simple substitution cipher where each letter in the plain
    git clone https://github.com/Subhajit-01/PRODIGY_CS_01
    ```
 
-2. Run the `caesar_cipher.py` script:
+2. Change Directory
+    ```bash
+   cd PRODIGY_CS_01
+   ```
+3. Run the `caesar_cipher.py` script:
    ```bash
    python caesar_cipher.py
    ```
 
-3. Follow the prompts to encrypt or decrypt a message.
+4. Follow the prompts to encrypt or decrypt a message.
 
 ## Example
 
